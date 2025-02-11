@@ -31,7 +31,7 @@ CAPTCHA and Challenge actions in AWS WAF
 https://docs.aws.amazon.com/waf/latest/developerguide/waf-captcha-and-challenge.html
 
 ---------------------------------------------------------------
-Domain 2 - Security Logging and Monitoring
+## Domain 2 - Security Logging and Monitoring
 Review these materials to learn more about the topics covered in this exam domain:
 Using CloudWatch anomaly detection
 https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoringCloudWatch_Anomaly_Detection.html
